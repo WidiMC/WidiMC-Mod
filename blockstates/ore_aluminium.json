@@ -1,0 +1,8 @@
+{
+    "variants":
+    {
+        "variant=overworld": { "model": "wtm:ore_aluminium_overworld" },
+        "variant=end": { "model": "wtm:ore_aluminium_end" },
+        "variant=nether": { "model": "wtm:ore_aluminium_nether" }
+    }
+}
