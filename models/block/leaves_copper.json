@@ -1,0 +1,6 @@
+{
+    "parent": "block/leaves",
+    "textures": {
+        "all": "wtm:blocks/leaves_copper"
+    }
+}

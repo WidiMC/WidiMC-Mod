@@ -1,0 +1,54 @@
+//Items
+item.ingot_copper.name=Copper Ingot
+item.ingot_obsidian.name=Obsidian Ingot
+item.ingot_compressed_obsidian.name=Compressed Obsidian Ingot
+
+//Tools
+item.axe_copper.name=Copper Axe
+item.hoe_copper.name=Copper Hoe
+item.pickaxe_copper.name=Copper Pickaxe
+item.shovel_copper.name=Copper Shovel
+item.sword_copper.name=Copper Sword
+
+item.axe_obsidian.name=Obsidian Axe
+item.hoe_obsidian.name=Obsidian Hoe
+item.pickaxe_obsidian.name=Obsidian Pickaxe
+item.shovel_obsidian.name=Obsidian Shovel
+item.sword_obsidian.name=Obsidian Sword
+
+//Armour
+item.helmet_copper.name=Copper Helmet
+item.chestplate_copper.name=Copper Chestplate
+item.leggins_copper.name=Copper Leggins
+item.boots_copper.name=Copper Boots
+
+//Blocks
+tile.block_copper.name=Copper Block
+
+//Ores
+tile.ore_aluminium_overworld.name=Aluminium Ore
+tile.ore_copper_overworld.name=Copper Ore
+
+tile.ore_aluminium_end.name=End Aluminium Ore
+tile.ore_copper_end.name=End Copper Ore
+
+tile.ore_aluminium_nether.name=Fire Aluminium Ore
+tile.ore_copper_nether.name=Fire Copper Ore
+
+//Crative Tabs
+itemGroup.thunderlandstab=Thunderlands Tab
+
+//Trees
+tile.planks_aluminium.name=Aluminium Planks
+tile.logs_aluminium.name=Aluminium Logs
+tile.leaf_aluminium.name=Aluminium Leaves
+tile.saplings_aluminium.name=Aluminium Sapling
+
+tile.planks_copper.name=Copper Planks
+tile.logs_copper.name=Copper Logs
+tile.leaf_copper.name=Copper Leaves
+tile.saplings_copper.name=Copper Sapling
+
+//Biomes
+generator.Copper=Copper
+generator.Custom=Custom

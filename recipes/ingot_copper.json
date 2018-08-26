@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "B"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "wtm:block_copper"
+        }
+    },
+    
+    "result":
+    {
+        "item": "wtm:ingot_copper",
+        "count": 9
+    }
+}
