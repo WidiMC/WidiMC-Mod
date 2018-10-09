@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "wtm:blocks/sapling_aluminium"
+    }
+}

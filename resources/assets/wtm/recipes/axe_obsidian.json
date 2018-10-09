@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "II ",
+        "IS ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "wtm:ingot_compressed_obsidian"
+        },
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "wtm:axe_obsidian",
+        "count": 1
+    }
+}
