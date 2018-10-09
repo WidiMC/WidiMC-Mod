@@ -1,2 +1,2 @@
-# WidiMC-Mod
+# WidiMC-ThunderlandsMod
 A Minecraft Mod.
